@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ali",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "name": "turki",
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "name": "saad",
+      "isAdmin": false
+    }
+  ]
+}
